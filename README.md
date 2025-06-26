@@ -66,4 +66,5 @@ Floyd, T. (2025). *Presence Signaling Architecture (PSA™) & the Role Signal An
 ---
 
 © 2025 Presence Signaling Architecture (PSA). All rights reserved.
+
 📄 License: [View LICENSE](./LICENSE.md) — Freemium use, commercial license required.
