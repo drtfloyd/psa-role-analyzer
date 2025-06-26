@@ -1,4 +1,5 @@
 # PSA Role Signal Analyzer (Lite Version)
+![License: Custom PSA Freemium](https://img.shields.io/badge/license-PSA--Freemium-blue)
 
 **Creator**: Dr. Tuboise Floyd  
 **Framework**: Presence Signaling Architecture (PSA™)  
@@ -65,3 +66,4 @@ Floyd, T. (2025). *Presence Signaling Architecture (PSA™) & the Role Signal An
 ---
 
 © 2025 Presence Signaling Architecture (PSA). All rights reserved.
+📄 License: [View LICENSE](./LICENSE.md) — Freemium use, commercial license required.
