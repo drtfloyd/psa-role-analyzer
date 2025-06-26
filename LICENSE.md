@@ -19,6 +19,6 @@ Permission is hereby granted to use, reproduce, and distribute this software in 
 
 5. Contact:
    To request a commercial license, bundle the PSA Role Signal Analyzer in a SaaS offering, or cite in enterprise infrastructure, please contact:
-   tuboise@icloud.com
+   toolset.ranker-28@icloud.com
 
 This license is a custom freemium scaffold and does not follow the standard OSI-approved open source licenses. By using this repository, you agree to the above conditions.
