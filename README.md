@@ -1,4 +1,4 @@
-# PSA Role Signal Analyzer (Lite Version)
+# PSA Role Analyzer (Lite Version)
 ![License: Custom PSA Freemium](https://img.shields.io/badge/license-PSA--Freemium-blue)
 
 **Creator**: Dr. Tuboise Floyd  
@@ -9,7 +9,7 @@
 
 ## 🔍 Overview
 
-The PSA Role Signal Analyzer is a diagnostic tool designed to detect **role inflation, misalignment, and systemic inversion** in job descriptions and organizational structures. This Lite Version is publicly available to demonstrate the framework’s signal diagnostic capacity.
+The PSA Role Analyzer is a diagnostic tool designed to detect **role inflation, misalignment, and systemic inversion** in job descriptions and organizational structures. This Lite Version is publicly available to demonstrate the framework’s signal diagnostic capacity.
 
 Originally developed as part of a **Responsible AI job application package**, this tool reflects the core tenets of Presence Signaling Architecture (PSA™), a system-level design framework for surfacing structural bias, role opacity, and authorship erasure.
 
@@ -61,7 +61,7 @@ For institutional licensing, enterprise use, or consulting integration, contact:
 
 ## 🧭 Citation
 
-Floyd, T. (2025). *Presence Signaling Architecture (PSA™) & the Role Signal Analyzer*. Independent Publication.
+Floyd, T. (2025). *Presence Signaling Architecture (PSA™) & the PSA™ Role Analyzer*. Independent Publication.
 
 ---
 
